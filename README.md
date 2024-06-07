@@ -2,7 +2,7 @@
 
 ## Usage
 
-This project uses JSON-Server for a mock backend.
+This project uses JSON-Server for a mock backend, Tailwind CSS and React.js on vite
 
 ### Install Dependencies
 
