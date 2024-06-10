@@ -1,5 +1,10 @@
 # React Jobs Project
 
+
+Live Demo : https://main--reactjobsbyrene.netlify.app/
+This uses a mock backend so the information will not be displayed until the server is run
+
+
 ## Usage
 
 This project uses JSON-Server for a mock backend, Tailwind CSS and React.js on vite
